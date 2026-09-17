@@ -1,0 +1,2 @@
+*.mdj
+git rm --cached *.mdj
