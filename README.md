@@ -1,5 +1,5 @@
 # Programacion-Orientada-A-Objetos
-![Logo Universidad Nacional de Colombia](https://www.vhv.rs/dpng/d/313-3134285_logo-de-la-universidad-nacional-de-colombia-png.png)
+![Logo Universidad Nacional de Colombia](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/UNAL_Logosimbolo.svg/3840px-UNAL_Logosimbolo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
 
 # Universidad Nacional de Colombia
 
